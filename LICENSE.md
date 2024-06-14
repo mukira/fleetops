@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (MIT) Collab
 
 Copyright (c) 2023 Fleetbase
 
